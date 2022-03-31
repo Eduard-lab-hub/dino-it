@@ -1,0 +1,30 @@
+.app-wrapper {
+  display: grid;
+  width: 1200px;
+  margin-left: 20px;
+  margin-top: 20px;
+
+  grid-template-areas: 
+  "header header"
+  "nav cont";
+
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+}
+
+
+
+
+
+
+ /* .nav div {
+   margin-top: 15px;
+ } */
+
+/* .nav a:hover{
+  background: rgb(71, 243, 79);
+  border-radius: 5px;
+  padding: 5px 5px;
+} */
+
