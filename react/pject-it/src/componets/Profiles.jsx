@@ -4,7 +4,7 @@ import classes from './Profiles.module.css';
 const Profiles = () =>{
     return (
         <div className={classes.cont}>
-            <img src='https://tproger.ru/s3/uploads/2019/07/cover-Nachni-svoj-put-v-IT-880x308.png' alt='img'/>
+            <img src='./images/dino.png' alt='img'/>
         <div>
             ava + photo
         </div>
